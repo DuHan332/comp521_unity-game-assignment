@@ -2,13 +2,6 @@
 
 This is an course project game for COMP521 in Mcgill University
 
-## Table of Contents
-
-- [UnityVersion](#UnityVersion)
-- [Author](#Author)
-- [Usage](#usage)
-- [Use of Online Assets](# Use of Online Assets)
-
 ## UnityVersion
 
 I used Unity 2021.3.13f1 for this game.
